@@ -1,4 +1,4 @@
-# AureMind
+# AureMind- nhi degi
 
 AureMind is an **AI-assisted Personal Manager web app** built as a college software engineering project. It combines note taking, task tracking, and productivity tools into a simple and intuitive interface to help users organize their daily activities and ideas.
 

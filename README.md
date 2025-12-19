@@ -99,9 +99,6 @@ This project was created primarily for academic purposes, but contributions are 
 3. Commit your changes
 4. Open a pull request
 
-## 📄 License
-
-This project does not currently include a license. Add one if you plan to distribute or open-source the project.
 
 ---
 
